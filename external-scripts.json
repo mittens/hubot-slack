@@ -15,6 +15,5 @@
   "hubot-heroku-keepalive",
   "hubot-fliptable",
   "hubot-javascript",
-  "hubot-spotify-search",
-  "hubot-github-contribution-stats" 
+  "hubot-spotify-search"
 ]
