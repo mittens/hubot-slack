@@ -1,6 +1,7 @@
 # hubot-slack
 
-This is a [Hubot](http://hubot.github.com/) adapter to use with [Slack](https://slack.com).
+This is a [Hubot] -- OR SHOULD I SAY BROBOT -- (http://hubot.github.com/) adapter to use with 
+[Slack](https://slack.com).
 
 [![Build Status](https://travis-ci.org/slackhq/hubot-slack.png)](https://travis-ci.org/slackhq/hubot-slack)
 [![Coverage Status](https://coveralls.io/repos/github/slackhq/hubot-slack/badge.svg?branch=master)](https://coveralls.io/github/slackhq/hubot-slack?branch=master)
