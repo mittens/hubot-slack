@@ -8,5 +8,13 @@
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-sentimental",
+  "hubot-chartbeat",
+  "hubot-business-cat",
+  "hubot-heroku-keepalive",
+  "hubot-fliptable",
+  "hubot-javascript",
+  "hubot-spotify-search",
+  "hubot-github-contribution-stats" 
 ]
