@@ -15,5 +15,9 @@
   "hubot-heroku-keepalive",
   "hubot-fliptable",
   "hubot-javascript",
-  "hubot-spotify-search"
+  "hubot-spotify-search",
+  "hubot-has-no-idea",
+  "hubot-motivate",
+  "hubot-whatthecommit",
+  "hubot-spotify-tracks"
 ]
