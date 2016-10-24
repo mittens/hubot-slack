@@ -19,5 +19,11 @@
   "hubot-has-no-idea",
   "hubot-motivate",
   "hubot-whatthecommit",
-  "hubot-spotify-tracks"
+  "hubot-spotify-tracks",
+  "hubot-meowme",
+  "hubot-pun-me",
+  "hubot-houseparty",
+  "hubot-pokemon",
+  "hubot-cheers",
+  "hubot-witty"
 ]
