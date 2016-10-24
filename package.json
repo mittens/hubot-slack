@@ -32,7 +32,8 @@
     "hubot-meowme": ">= 0.0.1",
     "hubot-houseparty": ">= 0.0.0",
     "hubot-pokemon": ">= 0.0.0",
-    "hubot-cheers": ">= 0.0.0"
+    "hubot-cheers": ">= 0.0.0",
+    "hubot-witty": ">= 0.0.0"
   },
   "engines": {
     "node": "0.10.x"
