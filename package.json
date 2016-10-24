@@ -6,7 +6,6 @@
   "description": "Your friendly robot in the guise of BROBOT.",
   "dependencies": {
     "hubot": ">= 2.5.1",
-    "hubot-business-cat": "^1.5.0",
     "hubot-chartbeat": "^0.2.2",
     "hubot-diagnostics": "0.0.1",
     "hubot-fliptable": "^1.2.0",
