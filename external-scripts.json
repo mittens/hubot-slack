@@ -9,7 +9,6 @@
     "hubot-redis-brain",
     "hubot-rules",
     "hubot-shipit",
-    "hubot-sentimental",
     "hubot-heroku-keepalive",
     "hubot-fliptable",
     "hubot-javascript",
@@ -25,5 +24,11 @@
     "hubot-witty",
     "hubot-victory",
     "hubot-darksky",
-    "hubot-encourage"
+    "hubot-encourage",
+    "hubot-sentimental-plus",
+    "hubot-calculator",
+    "hubot-euphemism",
+    "hubot-voting",
+    "hubot-team",
+    "hubot-twitter-search"
 ]
